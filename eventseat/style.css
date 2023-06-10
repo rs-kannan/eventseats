@@ -1,0 +1,34 @@
+.heading
+{
+ width: 100%;
+ color: blueviolet; 
+ justify-content: center;
+ text-align: center;
+ font-size: larger;
+ font-style: italic;
+}
+.card{
+    width: 10%;
+    border: 8px slateblue;
+    border-radius: 5px;
+    
+}
+.logo{
+    width: 500px;
+    height: 500px;
+    display: flex;
+}
+
+#name,#Email,#phone,#seats,#attendee
+{
+    display: inline-flex;
+    width: 600px;   
+    padding-top: 10px; 
+}
+.input{
+   width: 10px;
+   
+}
+.onbutton{
+    padding-top: 50px;
+}
